@@ -28,7 +28,7 @@ Create a **drag-and-drop calculator builder** where users can add, remove, and a
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/calculator-builder.git
+   git clone https://github.com/Haripriya1420/Calculator_Assignment_Helpee.git
    ```
 2. Navigate to the project directory:
    ```sh
