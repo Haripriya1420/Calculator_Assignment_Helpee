@@ -42,7 +42,7 @@ Create a **drag-and-drop calculator builder** where users can add, remove, and a
    ```sh
    npm start
    ```
-5. Open **http://localhost:3000/** in your browser.
+5. Open **http://localhost:3000/** in browser.
 
 ##  Usage
 - Drag and drop buttons into the workspace.
