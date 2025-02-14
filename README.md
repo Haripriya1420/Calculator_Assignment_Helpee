@@ -3,7 +3,7 @@
 ## 🎯 Objective
 Create a **drag-and-drop calculator builder** where users can add, remove, and arrange components (buttons, input fields, operations) to customize their own calculator.
 
-## 🚀 Features
+## Features
 
  **Drag & Drop Components** – Users can dynamically add/remove buttons.<br>
  **Predefined Components** – Number buttons (0-9), operations (+, -, *, /), and a result display.<br>
